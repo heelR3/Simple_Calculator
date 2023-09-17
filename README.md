@@ -1,1 +1,1 @@
-# Simple_Calculator
+This is a Simple Calculator written using C++. This program evaluates Mathematical expressions containing operators +, -, *, and /. This program has a class named "Calculator" which has five functions: get_data, add, subtract, multiply, and divide. Using a Switch Case statement inside a do-while loop, these functions are called for the execution of the Mathematical Operations.
